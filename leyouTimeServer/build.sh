@@ -1,4 +1,3 @@
 docker images
-docker rmi -f act
-docker build -t act leyouTimeServer .
+docker build -f /root/.jenkins/workspace/webGenkinsDemo/leyouTimeServer .
 docker images
