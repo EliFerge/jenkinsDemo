@@ -1,5 +1,5 @@
 FROM java:8
-MAINTAINER bingo
+MAINTAINER wz
 ADD ./leyouTimeServer/target/leyouTimeServer-1.0.jar demo.jar
 EXPOSE 8000
 EXPOSE 5005
