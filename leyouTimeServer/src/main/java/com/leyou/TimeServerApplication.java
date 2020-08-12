@@ -9,6 +9,7 @@ public class TimeServerApplication {
 
         SpringApplication.run(TimeServerApplication.class,args);
         System.out.println(12311);
+        System.out.println(456);
     }
 
 
